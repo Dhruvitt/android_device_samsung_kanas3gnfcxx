@@ -61,16 +61,16 @@ Use the following local manifest:
     <remove-project name="CyanogenMod/android_hardware_libhardware" />
     <remove-project name="CyanogenMod/android_external_tinyalsa" />
     <remove-project name="CyanogenMod/android_frameworks_av" />
-    <project name="Y300-0100/android_system_core" path="system/core" remote="github" revision="cm-11.0" />
-    <project name="Y300-0100/android_frameworks_native" path="frameworks/native" remote="github" revision="cm-11.0" />
-    <project name="Y300-0100/android_frameworks_base" path="frameworks/base" remote="github" revision="cm-11.0" />
-    <project name="Y300-0100/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="github" revision="cm-11.0" />
-    <project name="Y300-0100/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="cm-11.0" />
-    <project name="Y300-0100/android_external_tinyalsa" path="external/tinyalsa" remote="github" revision="cm-11.0" />
-    <project name="Y300-0100/android_frameworks_av" path="frameworks/av" remote="github" revision="cm-11.0" />
-    <project name="Y300-0100/android_device_samsung_kanas3gnfcxx" path="device/samsung/kanas3gnfcxx" remote="github" revision="master" />
-    <project name="Y300-0100/android_kernel_samsung_kanas3gnfcxx" path="kernel/samsung/kanas3gnfcxx" remote="github" revision="master" />
-    <project name="Y300-0100/proprietary_vendor_samsung" path="vendor/samsung/kanas3gnfcxx" remote="github" revision="master" />
+    <project name="Dhruvitt/android_system_core" path="system/core" remote="github" revision="cm-11.0" />
+    <project name="Dhruvitt/android_frameworks_native" path="frameworks/native" remote="github" revision="cm-11.0" />
+    <project name="Dhruvitt/android_frameworks_base" path="frameworks/base" remote="github" revision="cm-11.0" />
+    <project name="Dhruvitt/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="github" revision="cm-11.0" />
+    <project name="Dhruvitt/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="cm-11.0" />
+    <project name="Dhruvitt/android_external_tinyalsa" path="external/tinyalsa" remote="github" revision="cm-11.0" />
+    <project name="Dhruvitt/android_frameworks_av" path="frameworks/av" remote="github" revision="cm-11.0" />
+    <project name="Dhruvitt/android_device_samsung_kanas3gnfcxx" path="device/samsung/kanas3gnfcxx" remote="github" revision="master" />
+    <project name="Dhruvitt/android_kernel_samsung_kanas3gnfcxx" path="kernel/samsung/kanas3gnfcxx" remote="github" revision="master" />
+    <project name="Dhruvitt/proprietary_vendor_samsung" path="vendor/samsung/kanas3gnfcxx" remote="github" revision="master" />
     <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github"     revision="cm-11.0" />
     </manifest>
 
